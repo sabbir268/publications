@@ -38,7 +38,7 @@ require_once('app/init.php');
                 <div class="navbar-header text-center mt-2 mb-4">
                     <h4>
                     <a href="index.php">
-                        <strong>Exam Controling Assitant</strong>
+                        <strong>Publications</strong>
                     </a>
                 </h4>
                 </div>
