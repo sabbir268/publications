@@ -1,0 +1,40 @@
+.err_msg{
+	padding: 10px;
+    border-left: 5px solid red;
+    color: red;
+    background: #ff000029;
+}
+
+.success_msg {
+    padding: 10px;
+    border-left: 5px solid #378f62;
+    color: #2a5840;
+    background: #d3e6dd;
+}
+
+.form-control[readonly] {
+    color: rgba(9, 9, 9, 0.58);
+    background: none;
+}
+
+
+.seat {
+    padding: 14px;
+    text-align: center;
+    border: 1px solid #ccc;
+    margin-bottom: 35px;
+}
+
+
+
+@media print {
+   #button-container{
+      display: none;
+   }
+
+   footer{
+    display: none;
+   }
+
+
+}
