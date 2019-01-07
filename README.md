@@ -1,5 +1,6 @@
 # publications
-Publications Business Helper  
+Publications Business Helper.
+
 This application can be use in publication company to manage there books printing data, authors data , sell, customer and stock data. 
 ----------
 
@@ -8,7 +9,7 @@ How to RUN:
 - PHP 7.0 OR avobe
 2. Run Apache and MySql
 3. Craete a folder in htdocs and named publications and clone or copy all file in this folder.
-4. Go to http://localhost/phpmyadmin and create a database and import publication.sql from database folder
+4. Go to http://localhost/phpmyadmin and create a database and import publication.sql from SQL folder
 5. Set site root and database credential in app > config > config.php 
 6. Open http://localhost/publications and enter admin as username and 12345 as password.
 
